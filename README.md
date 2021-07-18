@@ -1,5 +1,5 @@
 This tool can be used to find the vulnerable node packages(npm) for the Dependency Confusion Vulnerability.
-To know about Dependency Confusion Vulnerabilty, Vist https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610
+To more know about Dependency Confusion Vulnerabilty, Vist https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610
 
 Usage:
 
