@@ -11,7 +11,7 @@ Example:
 
 
 
-To know more about Dependency Confusion Vulnerabilty, Vist https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610
+To know more about Dependency Confusion Vulnerabilty, Visit: https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610
 
 
 Video Resources by @LuD1161(Aseem Shrey): https://youtu.be/P13xrz0EgNw, https://youtu.be/4ggqsJeSu04
